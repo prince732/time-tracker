@@ -1,0 +1,4 @@
+<From remote: This happens with the help of the Git Fork command when the repository is already available on GitHub.
+ User makes a git fork or git clone to the same repository at local.>
+
+<<Note: We cover this in the next chapter)>>
